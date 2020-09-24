@@ -11,13 +11,16 @@ We'll focus on the second app, the one where users can discover events and purch
 I've started by doing some wireframes/low fidelity mock-ups which changed a lot at the beginning. Here are some examples of what they looked like:
 
 a bird's eye view of almost the whole document:
-/screenshots/Screenshot 2020-09-20 at 18.46.43.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 18.46.43.png"/>
 
 zoom into the Events section:
-/screenshots/Screenshot 2020-09-20 at 18.49.25.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 18.49.25.png"/>
 
 zoom into the checkout section:
-/screenshots/Screenshot 2020-09-20 at 18.50.10.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 18.50.10.png"/>
 
 ### Design screens
 
@@ -26,37 +29,46 @@ After we've discussed all the use-cases, the edge-cases and we've committed to t
 One note about the design is that I've tried to create a universal design for both iOS and Android version of the app because I was a single person and it would've been too much work to create different designs for both platforms. That's how I try to justify the decision of the hamburger menu.
 
 bird's eye view of the design screens:
-/screenshots/Screenshot 2020-09-20 at 19.16.32.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.16.32.png"/>
 
 Onboarding:
-/screenshots/Screenshot 2020-09-20 at 19.17.32.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.17.32.png"/>
 
 Authentication:
-/screenshots/Screenshot 2020-09-20 at 19.17.54.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.17.54.png"/>
 
 Initial screen:
-/screenshots/Screenshot 2020-09-20 at 19.19.04.png
+
+<img src="/screenshots/Screenshot 2020-09-20 at 19.19.04.png"/>
 
 Events:
-/screenshots/Screenshot 2020-09-20 at 19.19.38.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.19.38.png"/>
 
 Shopping cart:
-/screenshots/Screenshot 2020-09-20 at 19.20.42.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.20.42.png"/>
 
 Orders:
-/screenshots/Screenshot 2020-09-20 at 19.20.15.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.20.15.png"/>
 
 Tickets:
-/screenshots/Screenshot 2020-09-20 at 19.21.05.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.21.05.png"/>
 
 Settings/Profile:
 
-/screenshots/Screenshot 2020-09-20 at 19.24.22.png
+<img src="./screenshots/Screenshot 2020-09-20 at 19.24.22.png"/>
 
-/screenshots/Screenshot 2020-09-20 at 19.23.40.png
+<img src="./screenshots/Screenshot 2020-09-20 at 19.23.40.png"/>
 
 Menu:
-/screenshots/Screenshot 2020-09-20 at 19.21.58.png
+
+<img src="./screenshots/Screenshot 2020-09-20 at 19.21.58.png"/>
 
 ### Icons
 
@@ -64,21 +76,14 @@ I've manually created all icons and graphics in the apps. Probably time wasted b
 
 icons:
 
-/screenshots/Screenshot 2020-09-20 at 19.34.35.png
+<img src="./screenshots/Screenshot 2020-09-20 at 19.34.35.png"/>
 
 other graphics:
 
-/screenshots/Screenshot 2020-09-20 at 19.36.14.png
+<img src="./screenshots/Screenshot 2020-09-20 at 19.36.14.png"/>
 
-/screenshots/Screenshot 2020-09-20 at 19.38.59.png
+<img src="./screenshots/Screenshot 2020-09-20 at 19.38.59.png"/>
 
-/screenshots/Screenshot 2020-09-20 at 19.40.40.png
+<img src="./screenshots/Screenshot 2020-09-20 at 19.40.40.png"/>
 
-/screenshots/Screenshot 2020-09-20 at 19.41.28.png
-
-
-
-
-
-
-
+<img src="./screenshots/Screenshot 2020-09-20 at 19.41.28.png"/>
